@@ -43,6 +43,10 @@ bar {
 	i3bar_command ~/.config/polybar/launch.sh
 }
 
+# Execute compton at startup
+
+exec_always compton
+
 
 # #---Basic Bindings---# #
 
