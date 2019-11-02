@@ -1,0 +1,6 @@
+[2019-11-02 17:27:23.165] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/tmp/fz3temp-2/styles.css'
+[2019-11-02 17:27:23.165] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/tmp/fz3temp-2/styles.css'
+[2019-11-02 17:27:46.209] [renderer1] [error] Unable to read file (Error: File not found (/tmp/fz3temp-2/styles.css)): Error: Unable to read file (Error: File not found (/tmp/fz3temp-2/styles.css))
+    at b.<anonymous> (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1521:283)
+    at Generator.throw (<anonymous>)
+    at a (file:///usr/share/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:35:450)

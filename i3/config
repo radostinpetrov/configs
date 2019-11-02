@@ -10,7 +10,7 @@
 
 # #---Basic Definitions---# #
 hide_edge_borders both
-for_window [class="^.*"] border pixel 2
+for_window [class="^.*"] border pixel 1
 gaps inner 2
 gaps outer 0
 set $term --no-startup-id $TERMINAL
@@ -56,7 +56,7 @@ bindsym $mod+Shift+Return	exec --no-startup-id samedir
 bindsym $mod+Shift+q            kill
 
 #bindsym $mod+d                  exec dmenu_run
-bindsym $mod+d			exec --no-startup-id rofi -combi-modi run#ssh -theme solarized -font "fontawesome 12" -show combi
+bindsym $mod+d			exec --no-startup-id rofi -combi-modi run#ssh -theme solarized_alternate -font "System San Francisco Display 18" -show run -lines 3 -opacity "45" -width 40
 bindsym $mod+Shift+d            exec --no-startup-id i3-dmenu-desktop
 
 bindsym $mod+Shift+space 	floating toggle

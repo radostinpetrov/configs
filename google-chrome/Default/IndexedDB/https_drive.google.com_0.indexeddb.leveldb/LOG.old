@@ -1,0 +1,18 @@
+2019/10/30-16:33:39.274 9190 Reusing MANIFEST /home/rado/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/30-16:33:39.274 9190 Recovering log #138
+2019/10/30-16:33:39.274 9190 Reusing old log /home/rado/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000138.log 
+2019/10/30-16:33:40.190 a844 Level-0 table #142: started
+2019/10/30-16:33:40.234 a844 Level-0 table #142: 717690 bytes OK
+2019/10/30-16:33:40.238 a844 Delete type=0 #138
+2019/10/30-16:33:40.416 a844 Level-0 table #144: started
+2019/10/30-16:33:40.433 a844 Level-0 table #144: 731573 bytes OK
+2019/10/30-16:33:40.436 a844 Delete type=0 #141
+2019/10/30-16:33:40.437 a844 Compacting 4@0 + 1@1 files
+2019/10/30-16:33:40.469 a844 Generated table #145@0: 22 keys, 732095 bytes
+2019/10/30-16:33:40.469 a844 Compacted 4@0 + 1@1 files => 732095 bytes
+2019/10/30-16:33:40.472 a844 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/30-16:33:40.472 a844 Delete type=2 #144
+2019/10/30-16:33:40.472 a844 Delete type=2 #139
+2019/10/30-16:33:40.472 a844 Delete type=2 #137
+2019/10/30-16:33:40.472 a844 Delete type=2 #134
+2019/10/30-16:33:40.472 a844 Delete type=2 #142

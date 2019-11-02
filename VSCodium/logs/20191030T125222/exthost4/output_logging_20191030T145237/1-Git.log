@@ -1,0 +1,265 @@
+Looking for git in: git
+Using git 2.23.0 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/Tela-icon-theme
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/Tela-icon-theme/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/Tela-icon-theme/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/awesome-terminal-fonts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/awesome-terminal-fonts/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/awesome-terminal-fonts/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/bbswitch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/bbswitch/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/bbswitch/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/brightnessctl
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/brightnessctl/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/brightnessctl/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/clion
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/clion/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/clion/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/configs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/configs/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/configs/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/dash-to-dock
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/dash-to-dock/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/dash-to-dock/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/gnome-shell-extension-appindicator
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/gnome-shell-extension-appindicator/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/gnome-shell-extension-appindicator/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/google-chrome
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/google-chrome/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/google-chrome/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Downloads/intellij-idea-ultimate-edition
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/gnome-shell-extension-appindicator/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/gnome-shell-extension-appindicator/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/rado/Downloads/gnome-shell-extension-appindicator/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/rado/Downloads/gnome-shell-extension-appindicator/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:594639)
+	at T.updateTransientWatchers (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:98365)
+	at u.fire (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at k.updateModelState (/usr/share/vscodium-bin/resources/app/extensions/git/dist/main.js:1:116241)

@@ -1,0 +1,9 @@
+2019/10/31-11:03:27.651 552 Reusing MANIFEST /home/rado/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/31-11:03:27.651 552 Recovering log #143
+2019/10/31-11:03:27.652 552 Reusing old log /home/rado/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000143.log 
+2019/10/31-11:03:50.994 759 Level-0 table #148: started
+2019/10/31-11:03:51.012 759 Level-0 table #148: 724567 bytes OK
+2019/10/31-11:03:51.018 759 Delete type=0 #143
+2019/10/31-11:03:51.201 759 Level-0 table #150: started
+2019/10/31-11:03:51.217 759 Level-0 table #150: 738313 bytes OK
+2019/10/31-11:03:51.220 759 Delete type=0 #147

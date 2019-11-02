@@ -1,0 +1,5 @@
+[General]
+history=termina,gnome,xrandr -q,reboot
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_xrandr -,1 services_gnome-system-monitor-kde.desktop,1 services_terminator.desktop,1 services_org.gnome.Terminal.desktop

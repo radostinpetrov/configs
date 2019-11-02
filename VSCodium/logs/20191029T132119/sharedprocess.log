@@ -1,0 +1,8 @@
+[2019-10-29 13:21:22.552] [sharedprocess] [info] main {"machineId":"ef7e7825f3053e7d8607c03eaace3ce775913110888e0faa4cd624e27386cb79"}
+[2019-10-29 13:21:28.901] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-10-29 13:21:29.907] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/983fb7fa-a8ea-4987-bf4a-f8b80ff744fc
+[2019-10-29 13:21:30.833] [sharedprocess] [info] Extracted extension to /home/rado/.vscode-oss/extensions/.ms-vscode.cpptools-0.26.1: ms-vscode.cpptools
+[2019-10-29 13:21:30.833] [sharedprocess] [info] Renamed to /home/rado/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1
+[2019-10-29 13:21:30.836] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-10-29 13:21:30.849] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-10-29 13:22:02.556] [sharedprocess] [info] Starting to clean up unused language packs.

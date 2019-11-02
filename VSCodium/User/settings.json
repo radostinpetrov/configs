@@ -1,0 +1,16 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+    "editor.rulers": [80],
+    "editor.renderIndentGuides": false,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Material Theme Ocean",
+    "vim.cursorStylePerMode.normal": "line",
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.visual": "line",
+    "vim.cursorStylePerMode.replace": "line",
+    "vim.enableNeovim": true,
+    "window.zoomLevel": 0,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "window.menuBarVisibility": "default",
+    "workbench.activityBar.visible": true
+}

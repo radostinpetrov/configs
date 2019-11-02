@@ -1,0 +1,6 @@
+2019/10/31-13:41:12.775 3149 Reusing MANIFEST /home/rado/.config/google-chrome/Default/IndexedDB/https_www.amazon.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/31-13:41:12.775 3149 Recovering log #6
+2019/10/31-13:41:12.776 3149 Reusing old log /home/rado/.config/google-chrome/Default/IndexedDB/https_www.amazon.co.uk_0.indexeddb.leveldb/000006.log 
+2019/10/31-13:41:14.367 31d1 Level-0 table #10: started
+2019/10/31-13:41:14.396 31d1 Level-0 table #10: 1620421 bytes OK
+2019/10/31-13:41:14.400 31d1 Delete type=0 #6

@@ -1,0 +1,42 @@
+[Data Source]
+DisplayName=radostin.petrov99@gmail.com
+Enabled=true
+Parent=
+
+[Collection]
+BackendName=google
+CalendarEnabled=true
+ContactsEnabled=false
+Identity=radostin.petrov99@gmail.com
+MailEnabled=true
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1570558916_0
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/radostin.petrov99@gmail.com/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+Name=
+Address=radostin.petrov99@gmail.com
+
+[Authentication]
+Host=
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=
+EmailAddress=
+ResourcePath=
+ResourceQuery=
+SslTrust=
+
+[Security]
+Method=none

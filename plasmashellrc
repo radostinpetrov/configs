@@ -1,0 +1,14 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_xrandr,1 services_terminator.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Horizontal1920]
+maxLength=1920
+minLength=1919
+thickness=36
+
+[ScreenConnectors]
+0=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

@@ -1,0 +1,15 @@
+2019/10/26-21:36:38.054 7919 Reusing MANIFEST /home/rado/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/26-21:36:38.054 7919 Recovering log #89
+2019/10/26-21:36:38.056 7919 Reusing old log /home/rado/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000089.log 
+2019/10/26-22:06:05.153 14442 Level-0 table #93: started
+2019/10/26-22:06:05.174 14442 Level-0 table #93: 1947040 bytes OK
+2019/10/26-22:06:05.177 14442 Delete type=0 #89
+2019/10/26-22:06:05.178 14442 Compacting 4@0 + 1@1 files
+2019/10/26-22:06:05.219 14442 Generated table #94@0: 9 keys, 1013699 bytes
+2019/10/26-22:06:05.219 14442 Compacted 4@0 + 1@1 files => 1013699 bytes
+2019/10/26-22:06:05.222 14442 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/26-22:06:05.222 14442 Delete type=2 #86
+2019/10/26-22:06:05.223 14442 Delete type=2 #93
+2019/10/26-22:06:05.223 14442 Delete type=2 #84
+2019/10/26-22:06:05.223 14442 Delete type=2 #90
+2019/10/26-22:06:05.223 14442 Delete type=2 #82

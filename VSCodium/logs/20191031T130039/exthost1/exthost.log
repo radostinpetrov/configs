@@ -1,0 +1,40 @@
+[2019-10-31 13:00:41.740] [exthost] [info] extension host started
+[2019-10-31 13:00:41.812] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2019-10-31 13:00:41.812] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/ms-vscode.cpptools-0.26.1/dist/main
+[2019-10-31 13:00:41.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-31 13:00:41.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/extension
+[2019-10-31 13:00:41.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2019-10-31 13:00:41.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.909] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-31 13:00:41.914] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-10-31 13:00:41.924] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/pkief.material-icon-theme-3.9.1/dist/extension
+[2019-10-31 13:00:41.932] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:41.932] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/shyykoserhiy.vscode-spotify-3.1.0/out/src/extension
+[2019-10-31 13:00:42.154] [exthost] [info] eager extensions activated
+[2019-10-31 13:00:48.314] [exthost] [info] extension host started
+[2019-10-31 13:00:48.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-31 13:00:48.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/extension
+[2019-10-31 13:00:48.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2019-10-31 13:00:48.354] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-31 13:00:48.355] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-10-31 13:00:48.360] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/pkief.material-icon-theme-3.9.1/dist/extension
+[2019-10-31 13:00:48.364] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"activationEvent":"*"}
+[2019-10-31 13:00:48.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rado/.vscode-oss/extensions/shyykoserhiy.vscode-spotify-3.1.0/out/src/extension
+[2019-10-31 13:00:48.457] [exthost] [info] eager extensions activated
+[2019-10-31 13:03:34.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-10-31 13:03:34.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/php-language-features/dist/phpMain
+[2019-10-31 13:10:44.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-10-31 13:10:44.149] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-10-31 13:36:47.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-10-31 13:36:47.529] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/html-language-features/client/dist/htmlMain

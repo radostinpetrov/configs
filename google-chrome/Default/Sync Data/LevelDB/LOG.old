@@ -1,0 +1,15 @@
+2019/11/02-17:27:59.301 35b1 Reusing MANIFEST /home/rado/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/02-17:27:59.302 35b1 Recovering log #175
+2019/11/02-17:27:59.306 35b1 Reusing old log /home/rado/.config/google-chrome/Default/Sync Data/LevelDB/000175.log 
+2019/11/02-17:28:00.165 3801 Level-0 table #179: started
+2019/11/02-17:28:00.172 3801 Level-0 table #179: 104556 bytes OK
+2019/11/02-17:28:00.178 3801 Delete type=0 #175
+2019/11/02-17:28:00.178 3801 Compacting 4@0 + 1@1 files
+2019/11/02-17:28:00.193 3801 Generated table #180@0: 3097 keys, 318982 bytes
+2019/11/02-17:28:00.193 3801 Compacted 4@0 + 1@1 files => 318982 bytes
+2019/11/02-17:28:00.197 3801 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/02-17:28:00.197 3801 Delete type=2 #171
+2019/11/02-17:28:00.197 3801 Delete type=2 #168
+2019/11/02-17:28:00.197 3801 Delete type=2 #174
+2019/11/02-17:28:00.197 3801 Delete type=2 #179
+2019/11/02-17:28:00.197 3801 Delete type=2 #176

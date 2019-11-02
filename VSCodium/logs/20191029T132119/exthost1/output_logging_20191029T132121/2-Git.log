@@ -1,0 +1,61 @@
+Looking for git in: git
+Using git 2.23.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Documents/Pintos/pintos_02
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feat_priority_scheduler
+> git rev-parse --symbolic-full-name feat_priority_scheduler@{u}
+> git rev-list --left-right feat_priority_scheduler...refs/remotes/origin/feat_priority_scheduler
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/devices/timer.c
+> git check-ignore -v -z --stdin
+> git show :src/userprog/process.c
+> git check-ignore -v -z --stdin
+> git show :src/userprog/process.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/userprog/process.c
+> git show :src/userprog/process.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/userprog/process.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/userprog/process.c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/userprog/pagedir.c
+> git show :src/userprog/syscall.c
+> git show :src/userprog/exception.c
+> git show :src/userprog/gdt.c
+> git show :src/userprog/tss.c
+> git show :src/userprog/process.c
+> git check-ignore -v -z --stdin
+> git show :src/filesys/filesys.h
+> git show :src/filesys/file.h
+> git show :src/filesys/filesys.h

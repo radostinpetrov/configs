@@ -1,0 +1,30 @@
+Looking for git in: git
+Using git 2.23.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/rado/Documents/Pintos/pintos_02
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/filesys/filesys.h
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/userprog/exception.c
+> git show :src/filesys/filesys.h
+> git show :src/filesys/file.h
+> git show :src/devices/timer.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/threads/thread.c
+> git show :src/threads/synch.c
+> git show :src/threads/thread.c
+> git show :src/threads/synch.c
+> git show :src/threads/synch.h
+> git show :src/threads/synch.c
+> git show :src/devices/timer.c
+> git show :src/threads/thread.c
